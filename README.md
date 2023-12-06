@@ -1,6 +1,9 @@
 # LoanDefaultPrediction
 This repository offers machine learning solutions for predicting loan defaults using XGBoost and Random Forest models. It focuses on enhancing model transparency and interpretability through Explainable AI techniques, addressing the needs of data scientists, stakeholders, and regulators in the financial industry.
 
+## Acknowledgments
+This project is based on the work provided by ProjectPro. I have adapted and extended their code from their tutorial "Loan Default Prediction Project using Explainable AI ML Models" for the specific purposes of this project. My modifications and extensions build upon the foundational code and concepts learned from ProjectPro's excellent resources.
+
 # Execution Instructions
 
 # Python version 3.10.4
